@@ -1,0 +1,21 @@
+.UserInput{
+    text-align: center;
+    background-color: rgb(8, 193, 88);
+    color: darkorchid;
+    padding: 20px 15px;
+    padding-top: 50px;
+    border: 2px dotted hotpink;
+    width: 50%;
+    align-items: center;
+    margin: auto;
+}
+
+#inputStyle{
+    text-align: center;
+    background-color: coral;
+    color: rgba(7, 71, 144, 0.99);
+    padding: 13px 33px;
+    border: 2px solid darkturquoise;
+    font-size: 18px;
+    font-family: "Comic Sans MS"
+}

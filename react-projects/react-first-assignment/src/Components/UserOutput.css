@@ -1,0 +1,22 @@
+.UserOutput{
+    text-align: center;
+    margin: auto;
+    padding: 14px 2px;
+    background-color: goldenrod;
+    color: rgb(19, 155, 128);
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    border: 8px dotted skyblue;
+    width: 70%;
+}
+
+.par{
+    border: 5px double indianred;
+    margin: auto;
+    padding: 20px 40px;
+    padding-bottom: 8px;
+    width: 45%;
+}
+
+.separator{
+    padding: 10px 10px;
+}

@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content for my post"
+    },
+    {
+      "title": "IS THIS WORKING?",
+      "content": "CHECKING TO SEE IF THIS IS  WORKING",
+      "id": 3
+    },
+    {
+      "title": "Third post",
+      "content": "Wuddup is this gettin edited dawg?",
+      "id": 4
+    },
+    {
+      "title": "Chi kitty check",
+      "content": "Chicagooooo",
+      "id": 5
+    }
+  ]
+}
